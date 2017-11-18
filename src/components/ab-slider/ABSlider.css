@@ -1,0 +1,13 @@
+.CanvasContainer {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+	width: 100%;
+}
+
+.Canvas {
+	display: block;
+	height: 90%;
+	width: 90%;
+}
